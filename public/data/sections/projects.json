@@ -1,0 +1,73 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Projects</span>",
+            "description": ""
+        },
+        "es": {
+            "title": "Mis <span class='text-primary'>Proyectos</span>",
+            "description": ""
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "academic",
+            "locales": {
+                "en": {"title": "Academic"},
+                "es": {"title": "Academicos"}
+            }
+        },
+        {
+            "id": "software",
+            "locales": {
+                "en": {"title": "Software"},
+                "es": {"title": "Software"}
+            }
+        }
+    ],
+
+    "items": {
+        "academic": [
+            {
+                "id": "phd_project",
+                "title": "PhD project",
+                "logoUrl": "images/portfolio/phd_thesis_cover.jpeg",
+                "links": [
+                    {"faIcon": "fa-solid fa-link", "href": "https://www.tdx.cat/handle/10803/670208#page=2"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "My PhD project \"<b>Analysis of microbial populations in wines through NGS methodologies</b>\" concerned time-series analysis of wine microbial populations, integrating metataxonomic, transcriptomic and metabolomic data, having as ultimate goal the identification of microbial interactions that could lead to wine spoilage. One of the main goals of the project was the evaluation of the state-of-art statistical framework implemented in the analysis of microbial communities and the development of a non-parametric statistical methodology able to provide insights into the dymanics of wine microbial populations.",
+                        "tags": ["academic"]
+                    },
+                    "es": {
+                        "description": "",
+                        "tags": ["aplicación"]
+                    }
+                }
+            }
+        ],
+
+        "software": [
+            {
+                "id": "fresnote",
+                "title": "Fresnote",
+                "logoUrl": "images/portfolio/fresnote_logo.jpeg",
+                "links": [
+                    {"faIcon": "fa-brands fa-github", "href": "https://github.com/dkioroglou/fresnote"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>F</b>lask <b>res</b>earch <b>note</b>book (fresnote) is a browser-based note-taking application suitable for managing and organizing personal and research projects.",
+                        "tags": ["programming"]
+                    },
+                    "es": {
+                        "description": "",
+                        "tags": ["aplicación"]
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "I have a background in Biomedical Sciences and Bioinformatics and the past years I have been involved in integrating and applying multi-OMIC research in various biological domains. I am an avid learner and my goal is to develop statistical models and machine learning methodologies that could provide bioinformatic solutions to clinical challenges."
+        },
+
+        "es": {
+            "welcome": "¡Bienvenidos a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Tengo experiencia en ciencias Biomédicas y Bioinformática y en los últimos años he estado involucrado en la integración y aplicación de investigación de multi-OMICs en diversos dominios biológicos. Soy un ávido aprendiz y mi objetivo es desarrollar modelos estadísticos y metodologías de machine learning que puedan proporcionar soluciones bioinformáticas a los desafíos clínicos."
+        }
+
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}"
+        ]
+    }
+}

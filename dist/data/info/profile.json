@@ -1,0 +1,74 @@
+{
+    "name": "Dimitrios Kioroglou",
+    "profilePictureUrl": "images/pictures/myimage.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Post-doctoral researcher"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Investigador post-doctoral"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": null,
+            "valueShort": "Affiliation: CIC bioGUNE",
+            "faIcon": "fa-solid fa-city",
+            "href": "https://www.cicbiogune.es/people/dkioroglou"
+        },
+
+        "email": {
+            "id": "email",
+            "value": "dkioroglou@cicbiogune.es",
+            "valueShort": "dkioroglou@cicbiogune.es",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:dkioroglou@cicbiogune.es"
+        },
+
+        "facebook": {
+            "id": null,
+            "value": null,
+            "valueShort": null,
+            "faIcon": null,
+            "href": null
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@jonas.einstein.official",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+
+        "instagram": {
+            "id": null,
+            "value": null,
+            "valueShort": null,
+            "faIcon": null,
+            "href": null
+        },
+
+        "linkedin": {
+            "id": null,
+            "value": null,
+            "valueShort": null,
+            "faIcon": null,
+            "href": null
+        },
+
+        "phone": {
+            "id": null,
+            "value": null,
+            "valueShort": null,
+            "faIcon": null,
+            "href": null
+        }
+    }
+}
