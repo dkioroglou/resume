@@ -1,0 +1,79 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica."
+        }
+    },
+
+    "items": [
+        {
+            "id": "degree_bachelor",
+            "place": "@link{places.bachelor}",
+            "period": ["2000/09", "2005/10"],
+
+            "locales": {
+                "en": {
+                    "title": "BSc Medical laboratory technologist",
+                    "description": "<b>BSc project</b>: Exchange of bacterial genes and resistance to antibiotics."
+                },
+
+                "es": {
+                    "title": "Certificación en Fundamentos de UX en Línea",
+                    "description": "Inscrito en un programa en línea que abarca conceptos esenciales de UX, incluida la investigación de usuarios, pruebas de usabilidad y arquitectura de la información. Reforzó habilidades en la creación de experiencias digitales intuitivas y amigables para el usuario."
+                }
+            }
+        },
+
+        {
+            "id": "degree_master",
+            "place": "@link{places.master}",
+            "period": ["2015/09", "2017/10"],
+
+            "locales": {
+                "en": {
+                    "title": "MSc Bioinformatics and Systems biology",
+                    "description": "<b>MSc project</b>: Genetic variation and patterns selection in European Honeybee (Apis mellifera) populations."
+                },
+
+                "es": {
+                    "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
+                    "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo."
+                }
+            }
+        },
+
+        {
+            "id": "degree_phd",
+            "place": "@link{places.phd}",
+            "period": ["2017/09", "2020/10"],
+
+            "locales": {
+                "en": {
+                    "title": "PhD in Bioinformatics",
+                    "description": "<b>PhD project</b>: Analysis of microbial populations in wines through NGS methodologies."
+                },
+
+                "es": {
+                    "title": "Maestría en Interacción Humano-Computadora",
+                    "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios."
+                },
+
+                "fr": {
+                    "title": "Master en Interaction Humain-Ordinateur",
+                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                },
+
+                "zh": {
+                    "title": "人机交互硕士学位",
+                    "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        }
+    ]
+}
