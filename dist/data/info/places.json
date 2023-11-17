@@ -1,41 +1,9 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Adobe Inc."}
-        }
-    },
-
-    "apple": {
-        "logoUrl": "images/places/logo-apple.png",
-        "faIcon": "fab fa-apple",
-        "locales": {
-            "en": {"name": "Apple Inc."}
-        }
-    },
-
     "coursera": {
         "logoUrl": "images/places/logo-coursera.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Coursera"}
-        }
-    },
-
-    "forbes": {
-        "logoUrl": null,
-        "faIcon": "fa-solid fa-newspaper",
-        "locales": {
-            "en": {"name": "Forbes"}
-        }
-    },
-
-    "google": {
-        "logoUrl": null,
-        "faIcon": "fab fa-google",
-        "locales": {
-            "en": {"name": "Google"}
         }
     },
 
@@ -62,14 +30,6 @@
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Technological Educational Institute of Larissa, Greece"}
-        }
-    },
-
-    "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
-        "faIcon": "fas fa-paint-brush",
-        "locales": {
-            "en": {"name": "UX Masters Studio"}
         }
     }
 }

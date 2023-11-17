@@ -9,8 +9,8 @@
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Investigador post-doctoral"
+            "credits": "",
+            "role": ""
         }
     },
 
@@ -41,10 +41,10 @@
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "",
+            "valueShort": "",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/DKioroglou"
         },
 
         "instagram": {

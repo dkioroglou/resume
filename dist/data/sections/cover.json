@@ -9,7 +9,7 @@
         "es": {
             "welcome": "¡Bienvenidos a mi <span class='text-primary'>CV!</span>",
             "welcomeShort": "¡Saludos!",
-            "bio": "Tengo experiencia en ciencias Biomédicas y Bioinformática y en los últimos años he estado involucrado en la integración y aplicación de investigación de multi-OMICs en diversos dominios biológicos. Soy un ávido aprendiz y mi objetivo es desarrollar modelos estadísticos y metodologías de machine learning que puedan proporcionar soluciones bioinformáticas a los desafíos clínicos."
+            "bio": ""
         }
 
     },

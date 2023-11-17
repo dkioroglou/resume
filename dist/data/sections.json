@@ -32,6 +32,22 @@
         },
 
         {
+            "id": "publications",
+            "categoryId": "showcase",
+            "component": "InfoSection",
+            "jsonPath": "data/sections/publications.json",
+            "faIcon": "fa-solid fa-scroll"
+        },
+
+        {
+            "id": "projects",
+            "categoryId": "showcase",
+            "component": "GallerySection",
+            "jsonPath": "data/sections/projects.json",
+            "faIcon": "fa-solid fa-folder-open"
+        },
+
+        {
             "id": "education",
             "categoryId": "background",
             "component": "TimelineSection",
@@ -48,43 +64,11 @@
         },
 
         {
-            "id": "experience",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
-
-        {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
             "id": "achievements",
             "categoryId": "showcase",
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
-        },
-
-        {
-            "id": "hobbies",
-            "categoryId": "more",
-            "component": "InfoSection",
-            "jsonPath": "data/sections/hobbies.json",
-            "faIcon": "fa-solid fa-heart"
-        },
-
-        {
-            "id": "contact",
-            "categoryId": "more",
-            "component": "ContactSection",
-            "jsonPath": "data/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square"
         }
     ]
 }
