@@ -38,7 +38,7 @@
                 ],
                 "locales": {
                     "en": {
-                        "description": "My PhD project \"<b>Analysis of microbial populations in wines through NGS methodologies</b>\" concerned time-series analysis of wine microbial populations, integrating metataxonomic, transcriptomic and metabolomic data, having as ultimate goal the identification of microbial interactions that could lead to wine spoilage. One of the main goals of the project was the evaluation of the state-of-art statistical framework implemented in the analysis of microbial communities and the development of a non-parametric statistical methodology able to provide insights into the dymanics of wine microbial populations.<br><br>Status: <span style='color:#48C9B0'><b>Completed</b></span>",
+                        "description": "My PhD project \"<b>Analysis of microbial populations in wines through NGS methodologies</b>\" concerned time-series analysis of wine microbial populations, integrating metataxonomic, transcriptomic and metabolomic data, having as ultimate goal the identification of microbial interactions that could lead to wine spoilage. One of the main goals of the project was the evaluation of the state-of-art statistical framework implemented in the analysis of microbial communities and the development of a non-parametric statistical methodology able to provide insights into the dymanics of wine microbial populations.<br><br>Status: <span style='color:#17A589'><b>Completed</b></span>",
                         "tags": ["academic"]
                     },
                     "es": {
@@ -53,11 +53,11 @@
                 "title": "Multi-omic integration",
                 "logoUrl": "images/portfolio/multi_omic_integration.png",
                 "links": [
-                    {"faIcon": "fa-solid fa-ban", "href": "#"}
+                    {"faIcon": "fa-solid fa-ban", "href": ""}
                 ],
                 "locales": {
                     "en": {
-                        "description": "For years now the study of the human genome has been providing significant insights into the domain of population genetics, but with limited clinical applications. Nowadays, the increase of computational capabilities along with the continues decline of the sequencing costs have given us the opportunity of generating massive information on various structural and functional aspects of the human genome. Although, harnessing this information poses a real challenge, it holds the key for the development of therapeutics and targeted disease treatments that could be applied at individual level by taking into consideration our genetic idiosyncrasies. The collection, processing, analysis and integration of such information with other omic data consist the main aspects of this project.<br><br><span style='color:#EC7063'><b>Ongoing project</b></span>",
+                        "description": "For years now the study of the human genome has been providing significant insights into the domain of population genetics, but with limited clinical applications. Nowadays, the increase of computational capabilities along with the continues decline of the sequencing costs have given us the opportunity of generating massive information on various structural and functional aspects of the human genome. Although, harnessing this information poses a real challenge, it holds the key for the development of therapeutics and targeted disease treatments that could be applied at individual level by taking into consideration our genetic idiosyncrasies. The collection, processing, analysis and integration of such information with other omic data consist the main aspects of this project.<br><br>Status: <span style='color:#EC7063'><b>Ongoing project</b></span>",
                         "tags": ["academic"]
                     },
                     "es": {
