@@ -32,6 +32,38 @@
                 "locales": {
                     "en": {
                         "title": "",
+                        "description": "Kioroglou D, Peña-Cearra A, Corraliza AM, et al. Mitochondrial dysfunction: unraveling the elusive biology behind anti-TNF response during ulcerative colitis. <i>Inflammatory Bowel Diseases</i>. <b>2025 Feb 13</b>:izaf015.<br><a href='https://doi.org/10.1093/ibd/izaf015'><b>Read</b></a>"
+                    },
+                    "es": {
+                        "title": "",
+                        "description": "Kioroglou D, Peña-Cearra A, Corraliza AM, et al. Mitochondrial dysfunction: unraveling the elusive biology behind anti-TNF response during ulcerative colitis. <i>Inflammatory Bowel Diseases</i>. <b>2025 Feb 13</b>:izaf015.<br><a href='https://doi.org/10.1093/ibd/izaf015'><b>Read</b></a>"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-scroll",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "",
+                        "description": "Kioroglou D. Omilayers: a Python package for efficient data management to support multi-omic analysis. <i>BMC bioinformatics</i>. <b>2025 Feb 6</b>;26(1):40.<br><a href='https://doi.org/10.1186/s12859-025-06067-7'><b>Read</b></a>"
+                    },
+                    "es": {
+                        "title": "",
+                        "description": "Kioroglou D. Omilayers: a Python package for efficient data management to support multi-omic analysis. <i>BMC bioinformatics</i>. <b>2025 Feb 6</b>;26(1):40.<br><a href='https://doi.org/10.1186/s12859-025-06067-7'><b>Read</b></a>"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-scroll",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "",
                         "description": "Kioroglou D, Mas A, Portillo MC. <b>Qualitative factor-based comparison of NMR, targeted and untargeted GC-MS and LC-MS on the Metabolomic profiles of Rioja and Priorat red wines</b>. <i>Foods</i>. <b>2020 Sep 29</b>;9(10):1381.<br><a href='https://doi.org/10.3390/foods9101381'><b>Read</b></a>"
                     },
                     "es": {
