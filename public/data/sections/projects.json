@@ -67,6 +67,25 @@
                         "tags": ["aplicación"]
                     }
                 }
+            },
+
+            {
+                "id": "omilayers",
+                "title": "Omilayers",
+                "logoUrl": "images/portfolio/omilayers_logo_2.png",
+                "links": [
+                    {"faIcon": "fa-brands fa-github", "href": "https://github.com/dkioroglou/omilayers"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Python package for data management of multi-omic datasets.",
+                        "tags": ["programming"]
+                    },
+                    "es": {
+                        "description": "",
+                        "tags": ["aplicación"]
+                    }
+                }
             }
         ]
     }
