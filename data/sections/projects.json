@@ -70,15 +70,15 @@
 
         "software": [
             {
-                "id": "fresnote",
-                "title": "Fresnote",
-                "logoUrl": "images/portfolio/fresnote_logo.jpeg",
+                "id": "fresfolio",
+                "title": "Fresfolio",
+                "logoUrl": "images/portfolio/fresfolio_logo.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-github", "href": "https://github.com/dkioroglou/fresnote"}
+                    {"faIcon": "fa-brands fa-github", "href": "https://github.com/dkioroglou/fresfolio"}
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>F</b>lask <b>res</b>earch <b>note</b>book (fresnote) is a browser-based note-taking application suitable for managing and organizing personal and research projects.",
+                        "description": "<b>F</b>or <b>res</b>earch <b>folio</b> (fresfolio) is a browser-based note-taking application suitable for managing and organizing personal and research projects.",
                         "tags": ["programming"]
                     },
                     "es": {
