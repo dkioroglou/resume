@@ -31,5 +31,13 @@
         "locales": {
             "en": {"name": "Technological Educational Institute of Larissa, Greece"}
         }
+    },
+
+    "biogune": {
+        "logoUrl": "images/places/logo-biogune.png",
+        "faIcon": "fa fa-university",
+        "locales": {
+            "en": {"name": "CIC bioGUNE, Center for Cooperative Research in Biosciences, Spain"}
+        }
     }
 }

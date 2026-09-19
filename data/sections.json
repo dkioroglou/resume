@@ -69,6 +69,14 @@
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "showcase",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
         }
     ]
 }
